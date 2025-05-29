@@ -16,6 +16,28 @@ $ pip install -r requirements.txt
 $ python run.py
 ```
 
+#### TANGKAP LAYAR
+<div align="center">
+<table>
+  <tr>
+    <th>Image</th>
+    <th>Jenis</th>
+  </tr>
+  <tr>
+    <td><img src="https://files.catbox.moe/d2jirx.jpg" alt="Gambar 1" width="150"></td>
+    <td><code>LOGIN</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://files.catbox.moe/d2jirx.jpg" alt="Gambar 2" width="150"></td>
+</td>
+    <td><code>MENU</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://files.catbox.moe/d2jirx.jpg" alt="Gambar 2" width="150"></td>
+    <td><code>RESULT</code></td>
+  </tr>
+</table></div>
+
 ## 📊 Statistik Penggunaan
 - **Jumlah Pengguna Aktif**: Tools ini digunakan oleh lebih dari **20.728 pengguna** di seluruh dunia.
 - **Frekuensi Penggunaan**: Rata-rata, alat ini digunakan **200 kali** per bulan.
