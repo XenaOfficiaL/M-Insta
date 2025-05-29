@@ -6,8 +6,7 @@
 **M-Insta** merupakan toolkit Python untuk audit keamanan Instagram yang terus berkembang sejak `10 Agustus 2023`. Dirancang khusus untuk profesional, tools ini menggabungkan performa tinggi dengan kompatibilitas lintas platform (Termux/Pydroid/UserLand), menjadikannya solusi ideal untuk pengujian kerentanan akun secara etis.
 
 
-## INSTALLATION
-### Termux - [Alpha](https://drive.google.com/file/d/1r_qbH_q89mx1yhuhOk1Txj0eXWZVwPq6/view?usp=drive_link) 🦁
+#### INSTALLATION
 ```
 $ pkg update -y && pkg upgrade -y
 $ pkg install git
