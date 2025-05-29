@@ -33,7 +33,7 @@ $ python run.py
     <td><code>MENU</code></td>
   </tr>
   <tr>
-    <td><img src="https://files.catbox.moe/d2jirx.jpg" alt="Gambar 2" width="150"></td>
+    <td><img src="https://files.catbox.moe/vfjj3i.jpg" alt="Gambar 2" width="150"></td>
     <td><code>RESULT</code></td>
   </tr>
 </table></div>
