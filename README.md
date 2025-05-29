@@ -28,7 +28,7 @@ $ python run.py
     <td><code>LOGIN</code></td>
   </tr>
   <tr>
-    <td><img src="https://files.catbox.moe/d2jirx.jpg" alt="Gambar 2" width="150"></td>
+    <td><img src="https://files.catbox.moe/a8cht6.jpg" alt="Gambar 2" width="150"></td>
 </td>
     <td><code>MENU</code></td>
   </tr>
